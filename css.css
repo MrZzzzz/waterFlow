@@ -1,0 +1,5 @@
+*{margin:0;padding:0}
+.main{margin: 0 auto;position:relative;}
+.box{padding:15px 0 0 15px;position: absolute;}
+.pic{border:1px solid #666;border-radius:4px;box-shadow:0 0 4px #ccc;padding:10px;}
+.pic img{width:160px;}
